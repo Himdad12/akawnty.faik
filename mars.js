@@ -519,10 +519,10 @@ const MARS498 = new Discord.Client();
 const MARS499 = new Discord.Client();
 const MARS500 = new Discord.Client();
 /// by mars
-MARS.login("");
-MARS2.login("");
-MARS3.login("");
-MARS4.login("");
+MARS.login("ODM0MDk2MjQ2ODUwNTg0NTc3.YH77bQ.9rJqISkLd6zBhECPbjZGPpFe07w");
+MARS2.login("ODM0MDk3NTAzNzE5NjUzNDQ3.YH78yA.vpr8EIPAJwG5SQL1lDHZPPAW_GU");
+MARS3.login("ODM0MDk5MjIzNDQzNjY5MDIy.YH7-uQ.4bFylsK_88x-JmX_UpDW6BU9bII");
+MARS4.login("ODM0NDczMzY2Mjk1MDE5NTMy.YIBawA.d9AKFL5xgSLTKcapV1XUilfkqWY");
 MARS5.login("");
 MARS6.login("");
 MARS7.login("");
